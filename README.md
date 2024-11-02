@@ -17,7 +17,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Procuro me aprimorar estudando minhas áreas de interesse dentro da área de desenvolvimento. Meu objetivo é ingressar no mercado de trabalho enquanto me desenvolvo pessoalmente, adquirindo habilidades para me tornar um desenvolvedor. Comecei a trabalhar em projetos pessoais para o meu portfólio, criando soluções que facilitam a vida das pessoas no dia a dia. Estou sempre em busca de aprender novas linguagens de programação e técnicas de desenvolvimento. Estou animado para me conectar com outros desenvolvedores e participar de hackathons. Novidades chegando! 😁
+Estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Procuro me aprimorar estudando minhas áreas de interesse dentro da área de desenvolvimento. Meu objetivo é me desenvolver pessoalmente e me aprimorar profissionalmente no mercado de TI, adquirindo habilidades para me tornar um bom desenvolvedor e sulocionador de problemas. Comecei a trabalhar em projetos pessoais para o meu portfólio e atualmente estou fazendo estágio na área de desenvolvimento backend com java, criando soluções que facilitam a vida das pessoas no dia a dia. Estou sempre em busca de aprender novas linguagens de programação e técnicas de desenvolvimento. Estou animado para me conectar com outros desenvolvedores e participar de hackathons. Novidades chegando! 😁
 
 ## Email para contato:
 joaopedroplacidodesouza@gmail.com
