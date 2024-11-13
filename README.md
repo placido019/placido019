@@ -15,7 +15,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img align="center" alt="html5" src="[https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)" />
+ <<img align="center" alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+
 </div><br/>
 
 Estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Procuro me aprimorar estudando minhas áreas de interesse dentro da área de desenvolvimento. Meu objetivo é me desenvolver pessoalmente e me aprimorar profissionalmente no mercado de TI, adquirindo habilidades para me tornar um bom desenvolvedor e sulocionador de problemas. Comecei a trabalhar em projetos pessoais para o meu portfólio e atualmente estou fazendo estágio na área de desenvolvimento backend com java, criando soluções que facilitam a vida das pessoas no dia a dia. Estou sempre em busca de aprender novas linguagens de programação e técnicas de desenvolvimento. Estou animado para me conectar com outros desenvolvedores e participar de hackathons. Novidades chegando! 😁
